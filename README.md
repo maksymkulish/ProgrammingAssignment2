@@ -103,3 +103,33 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+# 1. Fork the GitHub repository containing the stub R files at https://github.com/rdpeng/ProgrammingAssignment2 
+#    to create a copy under your own account.
+#    a. Go to  assignment https://github.com/rdpeng/ProgrammingAssignment2 
+#    b. Click on "fork" button reside at top-right side of page.
+#    c. Load Git Bash and check settings by command: 
+#       > git config --list
+#       or 
+#       > git config user.name
+# 2. Clone your forked GitHub repository to your computer
+#    so that you can edit the files locally on your own machine.
+#    a. On GitHub, navigate to your fork of the "ProgrammingAssignment2" repository.
+#    b. Under the repository name, click Clone or download 
+#       (help https://help.github.com/articles/fork-a-repo/#step-2-create-a-local-clone-of-your-fork)
+#    c. In the Clone with HTTPs section, click  to copy the clone URL for the repository.
+#    d. Open Git Bash and Type:
+#       > git clone https://github.com/maksymkulish/ProgrammingAssignment2.git
+# 3. Edit the R file contained in the git repository and place your solution 
+#    in that file (please do not rename the file). 
+#    Solution: used below to add the edited file for commit to github repository:
+#    > git add cachematrix.R README.md
+# 4. Commit your completed R file into YOUR git repository and push your git branch
+#    to the GitHub repository under your account.
+#    Used below to commit and push the code to Github repository:
+#    > git commit -m "updated cachematrix.R and README.md"
+#    > git push
+# 5. Submit to Coursera the URL to your GitHub repository 
+#    that contains the completed R code for the assignment.
+#    Solution: Submit your URL https://github.com/maksymkulish/ProgrammingAssignment2 
+#    and 10 digit SHA-Hash code in coursera Programming Assignment
